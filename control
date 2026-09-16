@@ -1,0 +1,7 @@
+Package: com.user.lockshot
+Name: LockShot 锁屏触发快捷指令
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: 锁屏/解锁时自动运行指定快捷指令；iOS快捷指令原生没有的锁屏触发条件
+Author: user
+Maintainer: user
